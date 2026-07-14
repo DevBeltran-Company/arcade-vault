@@ -12,12 +12,8 @@ Arcade Vault — plataforma para jugar online y competir por puntos (README.md).
 
 Per AGENTS.md, this project's `next` dependency (16.2.10) has breaking changes vs. the Next.js you were trained on — APIs, conventions, and file structure may differ. **Before writing any code that touches Next.js APIs or conventions, read the relevant guide under `node_modules/next/dist/docs/` first** (sections: `01-app`, `02-pages`, `03-architecture`, `04-community`) and follow any deprecation notices found there.
 
-## Commands
-
-- `npm run dev` — start dev server
-- `npm run build` — production build
-- `npm run start` — run production build
-- `npm run lint` — ESLint (flat config, `eslint.config.mjs`, extends `eslint-config-next` core-web-vitals + typescript)
+## Skills
+Usa siempre /frotend-desing para diseñar la interfaz de usuario.
 
 No test runner is configured yet.
 
